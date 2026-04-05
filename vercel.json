@@ -1,4 +1,3 @@
 {
-  "buildCommand": "npx remotion bundle",
-  "outputDirectory": "build"
+  "framework": "nextjs"
 }
